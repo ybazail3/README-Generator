@@ -23,7 +23,7 @@
 ----------------------------------------------------------------------
        npm i inquirer@8.2.4
 
- ## Usage
+## Usage
 Inquirery is used with the npm install
 
 ## Contribution
@@ -47,4 +47,5 @@ The license used for this project is MIT looking in repository for more details.
 ## Questions
 - Github: [ybazail3](https://github.com/ybazail3)
 - Email: yazminbazail@icloud.com
+- LinkedIn: [my linkedin](https://www.linkedin.com/feed/)
        
